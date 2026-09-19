@@ -16,4 +16,6 @@ th,td { text-align:left; padding:0.4rem; border-bottom:1px solid #243860; }
 button { background: var(--accent); border:0; padding:0.4rem 0.85rem; border-radius:6px; font-weight:600; cursor:pointer; color:#051018; }
 .hero-num { font-size:2.2rem; font-weight:700; color: var(--accent); }
 .muted { color: var(--muted); }
+.reject-box { border:1px solid #b3413b; background:#2a1518; }
+.reject-text { color:#ff9b94; margin:0; font-weight:600; }
 input, select { background:#0a1528; border:1px solid var(--muted); color:var(--text); padding:0.35rem; border-radius:4px; }
